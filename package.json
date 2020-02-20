@@ -1,0 +1,10 @@
+{
+  "name": "foreach-error",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "yarn workspaces foreach -v run test"
+  }
+}

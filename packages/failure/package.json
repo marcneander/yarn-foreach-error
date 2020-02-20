@@ -1,0 +1,6 @@
+{
+  "name": "failure",
+  "scripts": {
+    "test": "false"
+  }
+}
